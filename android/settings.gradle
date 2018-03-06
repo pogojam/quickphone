@@ -1,0 +1,3 @@
+rootProject.name = 'quickphone'
+
+include ':app'
